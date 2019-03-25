@@ -2,7 +2,7 @@
  * @(#)BozoSort.java
  *
  *
- * @author 
+ * @author Gaultier Delbarre 
  * @version 1.00 2019/2/8
  */
 
